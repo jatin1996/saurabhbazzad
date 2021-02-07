@@ -89,7 +89,10 @@
 /*
 Navbar
 */
-
+#mysize
+{
+    font-size: 10pt;
+}
 #nav-bar-color{
     background-color:#ffffff
 }
